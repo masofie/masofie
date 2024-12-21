@@ -12,8 +12,14 @@ soluciones claras y sostenibles .
 
 **Hablidades Técnicas** <br>
 
-**Redes**
 - Configuración de redes en y servicios con **Cisco Packet Tracer** , **SSH** , **HTTP/HTTPS** y **FTP** .
 - Administración de sistemas en **Windows Server** y **Linux (Debian)** .
 - Virtualización y gestión de máquinas con **VirtulBox** .
+
+**Formación** <br>
+
+- Técnico en Sistemas Microinformáticos en Red
+- Técnico en Administración en Sistemas en Red
+
+**Proyectos Destacados** <br>
 
