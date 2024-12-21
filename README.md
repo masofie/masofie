@@ -1,19 +1,11 @@
 **Bienvenido a mi perfil** <br>
-Soy Masofie
 
-**¿Quién soy?**
-- Técnico en Administración de Sistemas Informáticos en Redes
-- Emprendedor enfocado en soluciones técnologicas 
+Soy **Masofie** técnico en Informática con experiencia en Configuración de redes , administración 
+de sistemas y soporte técnico en entornos Windows y Linux . Mi objetivo es brindar soluciones prácticas 
+y eficientes a problemas relacionados en tecnología , combinando conocimientos técnicos y pasión por el aprendizaje
+constante.
 
-**Proyectos Destacados** <br>
-- [SambaBox](https://github.com/masofie/sambabox): Automatización de Dominios y Redes Virtuales
-
-**Mis Conocimientos**
-- Gestión de Dominios y Redes
-- Dominios con Samba-Tool 
-- Creación de entornos con Vagrant
-- Diagramas en Cisco Pack Tracer
-- Diagnóstico y resolución de problemas técnicos 
-
-**¿Cómo Contactarme?**
-- Email : [masofieautodeploy@gmail.com]
+**Sobre mí** <br>
+Desde mis inicios en el mindo de la Informática , me he especializado en áreas clave como la gestión de redes , 
+Configuración de servicios esenciales y soporte técnico . Siempre busco entender a fondo los problemas para ofrecer 
+soluciones claras y sostenibles .
