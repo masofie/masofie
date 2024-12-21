@@ -7,3 +7,10 @@ Soy Masofie
 
 **Proyectos Destacados** <br>
 - [SambaBox](https://github.com/masofie/sambabox): Automatización de Dominios y Redes Virtuales
+
+**Mis Conocimientos**
+- Gestión de Dominios y Redes
+- Dominios con Samba-Tool 
+- Creación de entornos con Vagrant
+- Diagramas en Cisco Pack Tracer
+- Diagnóstico y resolución de problemas técnicos 
