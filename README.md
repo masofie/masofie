@@ -6,4 +6,4 @@ Soy Masofie
 - Emprendedor enfocado en soluciones técnologicas 
 
 **Proyectos Destacados** <br>
--[SambaBox](https://github.com/masofie/sambabox): Automatización de Dominios y Redes Virtuales
+- [SambaBox](https://github.com/masofie/sambabox): Automatización de Dominios y Redes Virtuales
