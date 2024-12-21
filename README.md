@@ -16,5 +16,4 @@ Soy Masofie
 - Diagnóstico y resolución de problemas técnicos 
 
 **¿Cómo Contactarme?**
--- Email : [masofieautodeploy@gmail.com]
--- 
+- Email : [masofieautodeploy@gmail.com]
