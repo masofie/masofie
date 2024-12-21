@@ -26,7 +26,7 @@ soluciones claras y sostenibles .
 
 **Contacto** <br>
 
-**Email :** [masofieautodeploy@gmail.com]
+**Email :** masofieautodeploy@gmail.com
 
 <br>
 
