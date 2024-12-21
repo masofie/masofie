@@ -1,4 +1,4 @@
-**Bienvenido a mi Perfil** <br>
+**Bienvenido a mi Perfil 👋🏻** <br>
 
 Soy **Masofie** técnico en Informática con experiencia en Configuración de redes , administración 
 de sistemas y soporte técnico en entornos Windows y Linux . Mi objetivo es brindar soluciones prácticas 
