@@ -24,7 +24,7 @@ soluciones claras y sostenibles .
 **Proyectos Destacados** <br>
 - [SambaBox](https://github.com/masofie/sambabox?tab=readme-ov-file) : Automatización de Infraestruturas con Vagrant y Samba-Tool
 
-**Contacto** <br>
+**📞 Contacto** <br>
 
 **Email :** masofieautodeploy@gmail.com
 
