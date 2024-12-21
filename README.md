@@ -10,7 +10,7 @@ Desde mis inicios en el mindo de la Informática , me he especializado en áreas
 Configuración de servicios esenciales y soporte técnico . Siempre busco entender a fondo los problemas para ofrecer 
 soluciones claras y sostenibles .
 
-**🛠️ Hablidades Técnicas** <br>
+**🛠️📚 Hablidades Técnicas** <br>
 
 - Configuración de redes en y servicios con **Cisco Packet Tracer** , **SSH** , **HTTP/HTTPS** y **FTP** .
 - Administración de sistemas en **Windows Server** y **Linux (Debian)** .
@@ -26,7 +26,7 @@ soluciones claras y sostenibles .
 
 **📞 Contacto** <br>
 
-**Email :** masofieautodeploy@gmail.com
+- **Email :** masofieautodeploy@gmail.com
 
 <br>
 
