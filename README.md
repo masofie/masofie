@@ -22,4 +22,12 @@ soluciones claras y sostenibles .
 - Técnico en Administración en Sistemas en Red
 
 **Proyectos Destacados** <br>
+- [SambaBox](https://github.com/masofie/sambabox?tab=readme-ov-file) : Automatización de Infraestruturas con Vagrant y Samba-Tool
 
+**Contacto** <br>
+
+**Email :** [masofieautodeploy@gmail.com]
+
+<br>
+
+**¡Gracias por visitar mi perfil!**
