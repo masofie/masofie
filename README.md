@@ -19,8 +19,7 @@ soluciones claras y sostenibles .
 **🎓 Formación** <br>
 
 - Técnico en Sistemas Microinformáticos en Red
-- Técnico en Administración en Sistemas en Red
-
+- Técnico Superior en Administración de Sistemas Informáticos en Red
 **Proyectos Destacados** <br>
 - [SambaBox](https://github.com/masofie/sambabox?tab=readme-ov-file) : Automatización de Infraestruturas con Vagrant y Samba-Tool
 
