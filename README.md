@@ -27,7 +27,7 @@ soluciones claras y sostenibles .
 **📞 Contacto** <br>
 
 - **Email :** masofieautodeploy@gmail.com
-- **Tik Tok :** [Contenido](https://www.tiktok.com/@masofieautodeploy)
+- **Tik Tok :** [Contenido](https://www.tiktok.com/@masofiedeploy)
 
 <br>
 
