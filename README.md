@@ -1,54 +1,76 @@
-# 👋 Bienvenido a Mi Perfil Profesional
-<br>
+<h1 align="center">👨‍💻 Masofie - Técnico en Informática</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Masofie-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masofie/)  
-[![Email](https://img.shields.io/badge/Email-masofieautodeploy@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:masofieautodeploy@gmail.com)  
-[![GitHub Followers](https://img.shields.io/github/followers/masofie?label=Seguidores&style=social)](https://github.com/masofie)
+<p align="center">
+  Soluciones IT eficientes, automatizadas y seguras 🚀
+</p>
 
-Soy ``Masofie`` , técnico en informática con amplia experiencia en **configuración de redes**, **administración de sistemas** y **soporte técnico** en entornos Windows y Linux . Mi enfoque se basa en brindar soluciones eficientes , seguras y sostenibles , combinando conocimientos técnicos con una constante pasión por el aprendizaje y la innovación .
+<p align="center">
+  <a href="https://www.linkedin.com/in/masofie/">
+    <img src="https://img.shields.io/badge/LinkedIn-Masofie-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:masofieautodeploy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-masofieautodeploy@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/masofie">
+    <img src="https://img.shields.io/github/followers/masofie?label=Seguidores&style=social" alt="GitHub Followers">
+  </a>
+</p>
 
-<br>
-<br>
+---
 
-## Sobre Mí
-<br>
+## 🧠 Sobre mí
 
-Desde mis primeros pasos en el ámbito tecnológico , me he especializado en la gestión integral de redes , la implementación y configuración de servicios críticos , así como en el soporte técnico de alta calidad. Mi objetivo es comprender a fondo cada desafío para ofrecer soluciones claras , efectivas y adaptadas a las necesidades reales .
+Soy **Masofie**, técnico en informática con sólida experiencia en:
 
-<br>
-<br>
+- 🔧 Configuración de redes LAN/WAN
+- 💻 Administración de sistemas Windows y Linux
+- 🛜 Virtualización, automatización y soporte técnico
 
-## 🛠️ Competencias Técnicas Destacadas
-<br>
+Me apasiona diseñar infraestructuras eficientes y automatizadas, combinando tecnologías open source y buenas prácticas en IT. Me adapto fácilmente a nuevos entornos y siempre estoy buscando aprender y compartir conocimientos.
 
-- Diseño, configuración y administración de redes con herramientas como ``Cisco Packet Tracer`` , ``ssh`` , ``http/https`` y ``ftp``.  
-- Gestión avanzada de sistemas operativos **Windows Server** y distribuciones **Linux (Debian)**.  
-- Implementación y manejo de entornos virtualizados mediante **VirtualBox**.
+---
 
-<br>
-<br>
+## 🛠️ Stack Técnico
+
+| Categoría                | Tecnologías/Competencias                                                                  |
+|--------------------------|--------------------------------------------------------------------------------------------|
+| **Redes y Servicios**    | Cisco Packet Tracer, SSH, HTTP/HTTPS, FTP, DNS, DHCP                                      |
+| **Sistemas Operativos**  | Windows Server, Debian GNU/Linux                                                          |
+| **Virtualización**       | VirtualBox, Vagrant, scripting Bash                                                       |
+| **Automatización**       | Samba-Tool, Ansible (básico), creación de scripts para despliegue                         |
+| **Otros**                | Manejo de firewalls (iptables), entornos de pruebas con Vagrant, Git, documentación clara |
+
+---
 
 ## 🎓 Formación Académica
-<br>
 
-- Técnico en Sistemas Microinformáticos y Redes  
-- Técnico Superior en Administración de Sistemas Informáticos en Red
+- 🖥️ Técnico en Sistemas Microinformáticos y Redes  
+- 🧑‍💻 Técnico Superior en Administración de Sistemas Informáticos en Red
 
-<br>
-<br>
+---
 
 ## 🚀 Proyectos Relevantes
-<br>
 
-- **[SambaBox](https://github.com/masofie/sambabox?tab=readme-ov-file)**: Proyecto de automatización de infraestructuras mediante **Vagrant** y **Samba-Tool**, orientado a facilitar la gestión y despliegue de entornos de red complejos.
+### 🔹 [SambaBox](https://github.com/masofie/sambabox?tab=readme-ov-file)
+
+Infraestructura automatizada basada en **Vagrant + Samba4** que permite:
+
+- Despliegue de un servidor de dominio con unidades organizativas
+- Configuración de un firewall Linux (iptables)
+- Integración de clientes Windows y Linux
+- Uso de scripts personalizados para aprovisionamiento completo
+
+> Ideal para prácticas de red, testing de políticas y formación técnica realista.
 
 ---
 
-## 📞 Contacto
+## 📬 Contacto y Redes
 
-- 📧 Correo electrónico: masofieautodeploy@gmail.com  
-- 🎥 TikTok: [Contenido Técnico y Tutoriales](https://www.tiktok.com/@masofiedeploy)
+- 📧 Email: [masofieautodeploy@gmail.com](mailto:masofieautodeploy@gmail.com)  
+- 🎥 TikTok: [@masofiedeploy](https://www.tiktok.com/@masofiedeploy) (contenido técnico y tips IT)
 
 ---
 
-Agradezco tu visita y quedo abierto a colaborar en proyectos , compartir conocimientos y construir soluciones tecnológicas de impacto .
+<p align="center">
+  💡 *Gracias por visitar mi perfil. Estoy abierto a colaborar, aprender y construir soluciones que marquen la diferencia.* 💡
+</p>
