@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Masofie - Técnico en Informática</h1>
-<p align="center">Especializado en Redes, Sistemas y Automatización de Infraestructuras</p>
+<p align="center">Especializado en Redes , Sistemas y Automatización de Infraestructuras</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/masofie/">
@@ -16,13 +16,17 @@
 <br>
 
 ## 👨‍💻 Sobre mí
+<br>
 
-Soy **Masofie**, técnico en informática con experiencia consolidada en la **administración de sistemas Linux/Windows**, **configuración de redes** y **automatización de infraestructuras**.  
+Soy ``Masofie`` , técnico en informática con experiencia consolidada en la **administración de sistemas Linux/Windows**, **configuración de redes** y **automatización de infraestructuras**.  
 Mi enfoque combina eficiencia, seguridad y documentación clara, con un fuerte compromiso hacia el aprendizaje continuo y la solución real de problemas tecnológicos.
 
 <br>
 
 ## 🛠️ Tecnologías y Herramientas
+<br>
+
+<p align="center">
 
 | Categoría              | Tecnologías & Herramientas                                                                           |
 |------------------------|------------------------------------------------------------------------------------------------------|
@@ -32,6 +36,7 @@ Mi enfoque combina eficiencia, seguridad y documentación clara, con un fuerte c
 | 🛡️ Seguridad / Firewall| iptables · gestión de usuarios y permisos · Samba4 · ACLs                                           |
 | ⚙️ Automatización      | Bash scripting · Samba-Tool · Ansible (básico)                                                      |
 | 📁 Control de versiones| Git · GitHub                                                                                         |
+</p>
 
 <br>
 
