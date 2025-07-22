@@ -19,7 +19,7 @@
 <br>
 
 Soy ``Masofie`` , técnico en informática con experiencia consolidada en la **administración de sistemas Linux/Windows**, **configuración de redes** y **automatización de infraestructuras**.  
-Mi enfoque combina eficiencia, seguridad y documentación clara, con un fuerte compromiso hacia el aprendizaje continuo y la solución real de problemas tecnológicos.
+Mi enfoque combina eficiencia , seguridad y documentación clara , con un fuerte compromiso hacia el aprendizaje continuo y la solución real de problemas tecnológicos .
 
 <br>
 
@@ -31,7 +31,7 @@ Mi enfoque combina eficiencia, seguridad y documentación clara, con un fuerte c
 | 🖧 Redes               | Cisco Packet Tracer · ``SSH`` · ``HTTP/HTTPS`` · ``FTP`` · ``DNS`` · ``DHCP``                                           |
 | 🖥️ Sistemas           | Windows Server · Debian GNU/Linux                                                                   |
 | 🧱 Virtualización      | VirtualBox · Vagrant                                                                                 |
-| 🛡️ Seguridad / Firewall| iptables · gestión de usuarios y permisos · Samba4 · ACLs                                           |
+| 🛡️ Seguridad / Firewall| iptables · gestión de usuarios y permisos · samba4 · ACLs                                           |
 | ⚙️ Automatización      | bash scripting · samba-tool · ansible (básico)                                                      |
 | 📁 Control de versiones| Git · GitHub                                                                                         |
 
