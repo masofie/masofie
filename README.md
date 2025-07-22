@@ -28,11 +28,11 @@ Mi enfoque combina eficiencia, seguridad y documentación clara, con un fuerte c
 
 | Categoría              | Tecnologías & Herramientas                                                                           |
 |------------------------|------------------------------------------------------------------------------------------------------|
-| 🖧 Redes               | Cisco Packet Tracer · ``SSH`` · ``HTTP/HTTPS`` · ``FTP`` · ``DNS`` · DHCP                                           |
+| 🖧 Redes               | Cisco Packet Tracer · ``SSH`` · ``HTTP/HTTPS`` · ``FTP`` · ``DNS`` · ``DHCP``                                           |
 | 🖥️ Sistemas           | Windows Server · Debian GNU/Linux                                                                   |
 | 🧱 Virtualización      | VirtualBox · Vagrant                                                                                 |
 | 🛡️ Seguridad / Firewall| iptables · gestión de usuarios y permisos · Samba4 · ACLs                                           |
-| ⚙️ Automatización      | Bash scripting · Samba-Tool · Ansible (básico)                                                      |
+| ⚙️ Automatización      | bash scripting · samba-tool · ansible (básico)                                                      |
 | 📁 Control de versiones| Git · GitHub                                                                                         |
 
 <br>
@@ -51,14 +51,14 @@ Mi enfoque combina eficiencia, seguridad y documentación clara, con un fuerte c
 ### 🗃️ [SambaBox](https://github.com/masofie/sambabox?tab=readme-ov-file)
 <br>
 
-Un entorno completo para desplegar y automatizar una infraestructura de red basada en **Samba4**, incluyendo:
+Un entorno completo para desplegar y automatizar una infraestructura de red basada en **samba4**, incluyendo:
 
-- 🔐 Servidor de dominio con Samba
+- 🔐 Servidor de dominio con ``samba4``
 - 🌐 Máquina firewall con ``iptables`` y ``NAT``
 - 🧑‍💼 Clientes Windows y Linux integrados al dominio
 - ⚙️ Scripts de aprovisionamiento automatizado
 
-Ideal para **formación técnica, pruebas reales** y **entornos simulados de producción**.
+Ideal para formación técnica, pruebas reales y entornos simulados de producción .
 
 <br>
 
