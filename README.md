@@ -84,5 +84,4 @@ Soy **Técnico Superior en ASIR** apasionado por la infraestructura y la optimiz
 
 <p align="center">
   <code>masofie@server:~$ ssh-copy-id future_employer@world</code> <br><br>
-  <img src="https://komarev.com/ghpvc/?username=masofie&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="visitas" />
 </p>
