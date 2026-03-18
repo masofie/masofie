@@ -59,12 +59,6 @@ Soy un apasionado de la **infraestructura tecnológica** y la **optimización de
 
 Estoy siempre abierto a colaborar en proyectos desafiantes, despliegues de infraestructura o consultorías técnicas. Si buscas a alguien con mentalidad **SRE** y pasión por el Open Source, ¡hablemos!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/masofie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@masofie"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="mailto:masofieautodeploy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 <p align="center">
