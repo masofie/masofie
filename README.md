@@ -60,7 +60,3 @@ Soy un apasionado de la **infraestructura tecnológica** y la **optimización de
 Estoy siempre abierto a colaborar en proyectos desafiantes, despliegues de infraestructura o consultorías técnicas. Si buscas a alguien con mentalidad **SRE** y pasión por el Open Source, ¡hablemos!
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masofie&color=0077B5&style=flat-square&label=VISITAS+AL+PERFIL" alt="visitas" />
-</p>
