@@ -1,85 +1,72 @@
-<h1 align="center"> Masofie - 💻 Técnico en Informática | 🌐 Redes · 🖥 Sistemas · ⚙️ Automatización</h1>
-<p align="center">Especializado en Redes, Sistemas y Automatización de Infraestructuras</p>
+# 👋 Hola, soy Masofie 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/masofie/">
-    <img src="https://img.shields.io/badge/LinkedIn-Masofie-0077B5?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:masofieautodeploy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=flat&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.tiktok.com/@masofiedeploy">
-    <img src="https://img.shields.io/badge/TikTok-Tutoriales-000000?style=flat&logo=tiktok&logoColor=white">
-  </a>
+  <strong>Técnico Superior en Administración de Sistemas Informáticos en Red</strong><br>
+  💻 Sistemas · 🌐 Redes · ⚙️ Automatización · 🛡️ Seguridad
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/masofie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:masofieautodeploy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@masofie"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
-<p align="center">
-Soy <strong>Masofie</strong>, técnico en informática con experiencia en:
-</p>
+### 🚀 Sobre mí
 
-<ul align="center" style="list-style-type:none;">
-  <li>💻 Administración de sistemas Linux / Windows</li>
-  <li>🌐 Configuración y gestión de redes</li>
-  <li>🤖 Automatización de infraestructuras</li>
-  <li>📄 Documentación y buenas prácticas en proyectos tecnológicos</li>
-</ul>
+Soy un apasionado de la **infraestructura tecnológica** y la **optimización de procesos**. Mi enfoque principal es construir entornos eficientes, seguros y escalables. Me encanta "cacharrear" con servidores y automatizar todo lo que se pueda automatizar.
+
+- 🔭 Actualmente enfocado en perfeccionar mis habilidades en **Ansible y Cloud**.
+- 🌱 Aprendiendo continuamente sobre **Ciberseguridad y DevOps**.
+- 💬 Pregúntame sobre: **Linux, Virtualización o Redes Cisco**.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+| Categoría | Herramientas |
+| :--- | :--- |
+| **Sistemas Operativos** | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white) |
+| **Redes & Protocolos** | ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) `SSH` `DHCP/DNS` `HTTP/S` `FTP` |
+| **Automatización** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Virtualización** | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white) |
+| **Seguridad** | `Iptables` `ACLs` `Samba4` `Active Directory` |
+
+---
+
+### 🎓 Formación y Certificaciones
+
+- 🎓 **Grado Superior:** Adm. de Sistemas Informáticos en Red (ASIR)
+- 🎓 **Grado Medio:** Sistemas Microinformáticos y Redes (SMR)
+- 📜 **ComDix:** Diploma de Competencias Digitales Intermedias
+- 🛡️ **PRL:** Prevención de Riesgos Laborales (60h)
+
+---
+
+### 📊 Actividad en GitHub
 
 <p align="center">
-Me apasiona crear soluciones eficientes y seguras, aprendiendo continuamente y resolviendo problemas reales.
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=masofie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masofie&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🛠️ Habilidades y Tecnologías
-<p align="center">
-<ul align="center" style="list-style-type:none;">
-  <li>💡 <strong>Redes:</strong> Cisco Packet Tracer · SSH · HTTP/HTTPS · FTP · DNS · DHCP</li>
-  <li>🖥️ <strong>Sistemas:</strong> Windows Server · Debian GNU/Linux</li>
-  <li>🧱 <strong>Virtualización:</strong> VirtualBox · Vagrant</li>
-  <li>🛡️ <strong>Seguridad / Firewall:</strong> iptables · Gestión de usuarios y permisos · samba4 · ACLs</li>
-  <li>⚙️ <strong>Automatización:</strong> Bash scripting · samba-tool · Ansible (básico)</li>
-  <li>📁 <strong>Control de versiones:</strong> Git · GitHub</li>
-</ul>
+### ⚡ ¡Hablemos!
+
+> **"Si algo funciona, automatízalo. Si no funciona, revisa los logs."**
+
+Estoy siempre abierto a colaborar en proyectos desafiantes, despliegues de infraestructura o consultorías técnicas. Si buscas a alguien con mentalidad **SRE** y pasión por el Open Source, ¡hablemos!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/masofie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@masofie"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:masofieautodeploy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🎓 Formación Académica
 <p align="center">
-<ul align="center" style="list-style-type:none;">
-  <li>📘 <strong>Técnico en Sistemas Microinformáticos y Redes</strong></li>
-  <li>📗 <strong>Técnico Superior en Administración de Sistemas Informáticos en Red</strong></li>
-</ul>
-</p>
-
----
-
-## 🏅 Certificaciones
-<p align="center">
-<ul align="center" style="list-style-type:none;">
-  <li>💻 <strong>Linux Essentials</strong> – Fundamentos de administración Linux</li>
-  <li>🌐 <strong>Cisco CCNA (Básico)</strong> – Redes y conectividad profesional</li>
-  <li>🛡️ <strong>Seguridad en Redes</strong> – Implementación de firewalls y buenas prácticas</li>
-  <li>⚙️ <strong>Automatización con Ansible</strong> – Aprovisionamiento y despliegue automatizado</li>
-</ul>
-</p>
-
-<p align="center">
-Estas certificaciones complementan mi experiencia práctica y me permiten abordar proyectos de forma segura, eficiente y profesional.
-</p>
-
----
-
-## 📬 Contacto Profesional
-<p align="center">
-📧 <a href="mailto:masofieautodeploy@gmail.com">masofieautodeploy@gmail.com</a> &nbsp;|&nbsp; 
-🔗 <a href="https://www.linkedin.com/in/masofie/">LinkedIn</a> &nbsp;|&nbsp; 
-🎥 <a href="https://www.tiktok.com/@masofiedeploy">TikTok</a>
-</p>
-
-<p align="center">
-💼 Abierto a colaboraciones, proyectos innovadores y nuevas oportunidades en tecnología.
+  <img src="https://komarev.com/ghpvc/?username=masofie&color=0077B5&style=flat-square&label=VISITAS+AL+PERFIL" alt="visitas" />
 </p>
