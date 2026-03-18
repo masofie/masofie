@@ -1,9 +1,4 @@
-# 👋 Hola, soy Masofie 
-
-<p align="center">
-  <strong>Técnico Superior en Administración de Sistemas Informáticos en Red</strong><br>
-  💻 Sistemas · 🌐 Redes · ⚙️ Automatización · 🛡️ Seguridad
-</p>
+# 👋 Hola, soy Masofie
 
 <p align="center">
   <a href="https://es.linkedin.com/in/masofie-rodriguez-075070364"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -13,50 +8,81 @@
 
 ---
 
-### 🚀 Sobre mí
+### 👨‍💻 Sobre mí
 
-Soy un apasionado de la **infraestructura tecnológica** y la **optimización de procesos**. Mi enfoque principal es construir entornos eficientes, seguros y escalables. Me encanta "cacharrear" con servidores y automatizar todo lo que se pueda automatizar.
+> **"Si algo funciona, automatízalo. Si no funciona, revisa los logs."**
 
-- 🔭 Actualmente enfocado en perfeccionar mis habilidades en **Ansible y Cloud**.
-- 🌱 Aprendiendo continuamente sobre **Ciberseguridad y DevOps**.
-- 💬 Pregúntame sobre: **Linux, Virtualización o Redes Cisco**.
+Soy **Técnico Superior en ASIR** apasionado por la infraestructura y la optimización de sistemas. Mi enfoque es transformar entornos complejos en arquitecturas escalables y seguras mediante la automatización y el pensamiento **SRE**.
+
+* 🔭 **Enfoque actual:** Perfeccionando despliegues con **Ansible, Docker y Cloud Hybrid**.
+* 🛡️ **Intereses:** Hardening de sistemas Linux y seguridad perimetral.
+* 💬 **Hablemos de:** Linux (Debian/CentOS), Virtualización Proxmox/VMware o Redes Cisco.
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-| Categoría | Herramientas |
-| :--- | :--- |
-| **Sistemas Operativos** | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white) |
-| **Redes & Protocolos** | ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white) `SSH` `DHCP/DNS` `HTTP/S` `FTP` |
-| **Automatización** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Virtualización** | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white) |
-| **Seguridad** | `Iptables` `ACLs` `Samba4` `Active Directory` |
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Sistemas</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-E94333?style=flat-square&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Automatización</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Redes y Seguridad</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" />
+      <img src="https://img.shields.io/badge/VPN-FF6600?style=flat-square&logo=palo-alto-networks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firewalls-Iptables-grey?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎓 Formación y Certificaciones
+### 📂 Proyectos Destacados (WIP)
 
-- 🎓 **Grado Superior:** Adm. de Sistemas Informáticos en Red (ASIR)
-- 🎓 **Grado Medio:** Sistemas Microinformáticos y Redes (SMR)
-- 📜 **ComDix:** Diploma de Competencias Digitales Intermedias
-- 🛡️ **PRL:** Prevención de Riesgos Laborales (60h)
+- 🚀 **[Auto-Deploy-Script]:** Automatización de entornos LAMP con Bash y Ansible.
+- 🛡️ **[Samba4-AD-Project]:** Implementación de controlador de dominio en Linux.
+- 🌐 **[VLAN-Infrastructure]:** Diseño de red segmentada para entornos empresariales.
 
 ---
 
-### 📊 Actividad en GitHub
+### 📊 Github Stats & Activity
 
 <p align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=masofie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masofie&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masofie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masofie&theme=tokyonight&hide_border=false" alt="streak stats" />
 </p>
 
 ---
 
-### ⚡ ¡Hablemos!
+### 🎓 Formación
 
-> **"Si algo funciona, automatízalo. Si no funciona, revisa los logs."**
-
-Estoy siempre abierto a colaborar en proyectos desafiantes, despliegues de infraestructura o consultorías técnicas. Si buscas a alguien con mentalidad **SRE** y pasión por el Open Source, ¡hablemos!
+- 🎓 **ASIR:** Administración de Sistemas Informáticos en Red.
+- 🎓 **SMR:** Sistemas Microinformáticos y Redes.
+- 📜 **Certificaciones:** ComDix (Competencias Digitales) | PRL (60h).
 
 ---
+
+<p align="center">
+  <code>masofie@server:~$ ssh-copy-id future_employer@world</code> <br><br>
+  <img src="https://komarev.com/ghpvc/?username=masofie&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="visitas" />
+</p>
